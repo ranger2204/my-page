@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+hr{
+    height: 2px;
+    border-bottom: 2px;
+}
+
+.vertical-text {
+    transform:  translateX(-50%) translateY(-50%) rotate(-90deg);
+    float: left;
+}
